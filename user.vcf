@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
+N:Arun;Singh;;;
 FN: Arun Singh
 ORG:Oacer Web Services;
 TITLE:Founding Partner\nDevelopment Team, Oacer
 EMAIL;type=INTERNET;type=WORK;type=pref:arun@oacer.com
 TEL;type=WORK;type=VOICE:++917013391638
-item1.ADR;type=WORK;type=pref:;;7-1-33/1 Suguna Apt.\nLeelanagar\,Ameerpet;;;500016;Hyderabad
+item1.ADR;type=WORK;type=pref:;;7-1-33/1 Suguna Apt.\nLeelanagar\, Ameerpet;;;-16;Hyderabad
 item1.X-ABADR:sg
 item2.URL;type=pref:http://oacer.com
 item2.X-ABLabel:_$!<HomePage>!$_
